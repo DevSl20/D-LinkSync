@@ -1,5 +1,5 @@
 {
-  "name": "leadsync",
+  "name": "dlinksync",
   "version": "1.0.4",
   "main": "index.js",
   "type": "module",
@@ -12,9 +12,9 @@
     "Leads Sync"
   ],
   "bin": {
-    "leadsync": "./main.js"
+    "dlinksync": "./main.js"
   },
-  "author": "@D-linkSync",
+  "author": "@DevangSalvi",
   "license": "MIT",
   "description": "",
   "dependencies": {
